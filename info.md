@@ -1,3 +1,3 @@
-Centos 7
+Centos 8
 
-Ubuntu 21
+Ubuntu 22 LTS
