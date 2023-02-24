@@ -2,3 +2,7 @@ Stratis 패키지 설치
 RHEL8 이상 버전에서 패키지 설치가능
 데비안 계열 설치 불가로 보임
 CentOS 7 이하 버전에서 설치불가로 보임
+
+```
+yum install stratis-cli stratisd
+```
