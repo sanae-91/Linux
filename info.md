@@ -1,10 +1,11 @@
-Centos 8
-========
+# 1. Centos 8
+==============
 마지막 Centos 버전 이 위로는 centos stream 버전임
 
 패키지 업데이트
 ---------------
-```CentOS 8 패키지 에러
+```
+CentOS 8 패키지 에러
 # yum upgrade -y
 CentOS Linux 8 - AppStream                       34  B/s |  38  B     00:01
 Error: Failed to download metadata for repo 'appstream': Cannot prepare internal mirrorlist: No URLs in mirrorlist
@@ -22,8 +23,8 @@ ssh 설치
 --------
 yum install install openssh-server
 
-Ubuntu 22.04 LTS
-=================
+# 2. Ubuntu 22.04 LTS
+===================
 우분투 장기지원하는 최신버전
 
 패키지 업데이트
