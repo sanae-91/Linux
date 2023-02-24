@@ -1,5 +1,4 @@
 # 1. Centos 8
-==============
 마지막 Centos 버전 이 위로는 centos stream 버전임
 
 패키지 업데이트
@@ -24,7 +23,6 @@ ssh 설치
 yum install install openssh-server
 
 # 2. Ubuntu 22.04 LTS
-===================
 우분투 장기지원하는 최신버전
 
 패키지 업데이트
