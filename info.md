@@ -1,4 +1,5 @@
-# 1. Centos 8
+\# 1. Centos 8
+===============
 마지막 Centos 버전 이 위로는 centos stream 버전임
 
 패키지 업데이트
@@ -13,7 +14,7 @@ Error: Failed to download metadata for repo 'appstream': Cannot prepare internal
 sudo sed -i -e "s|mirrorlist=|#mirrorlist=|g" /etc/yum.repos.d/CentOS-*
 sudo sed -i -e "s|#baseurl=http://mirror.centos.org|baseurl=http://vault.centos.org|g" /etc/yum.repos.d/CentOS-*
 ```
-# yum update
+\# yum update
 
 재부팅 해야함
 
@@ -22,13 +23,14 @@ ssh 설치
 --------
 yum install install openssh-server
 
-# 2. Ubuntu 22.04 LTS
+\# 2. Ubuntu 22.04 LTS
+======================
 우분투 장기지원하는 최신버전
 
 패키지 업데이트
 ---------------
 
-# apt-get update
+\# apt-get update
 
 ssh 설치
 -------
