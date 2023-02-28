@@ -22,6 +22,8 @@ sudo sed -i -e "s|#baseurl=http://mirror.centos.org|baseurl=http://vault.centos.
 ssh 설치
 --------
 yum install install openssh-server
+<br/>
+<br/>
 
 2.&nbsp;Ubuntu 22.04 LTS
 ======================
