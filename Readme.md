@@ -42,3 +42,7 @@ yum install install openssh-server
 ssh 설치
 -------
 apt-get install openssh-server
+
+ssh 옵션
+---------
+\# vi /etc/ssh/sshd_config
