@@ -32,7 +32,7 @@ yum install install openssh-server
 미러서버 변경
 ------------
 \# vi /etc/apt/sources.list
-<br/>\# %s/kr.archive.ubuntu.com/mirror.kakao.com
+<br/>\# %s/archive.ubuntu.com/mirror.kakao.com
 
 패키지 업데이트
 ---------------
