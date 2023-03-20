@@ -29,6 +29,11 @@ yum install install openssh-server
 ======================
 우분투 장기지원하는 최신버전
 
+미러서버 변경
+------------
+\# vi /etc/apt/sources.list
+\# %s/kr.archive.ubuntu.com/mirror.kakao.com
+
 패키지 업데이트
 ---------------
 
